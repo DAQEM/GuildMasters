@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stone"
+    },
+    "B": {
+      "item": "minecraft:stone"
+    },
+    "C": {
+      "item": "minecraft:stone"
+    },
+    "D": {
+      "item": "minecraft:stone"
+    },
+    "E": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "id": "guildmasters:diary"
+  }
+}

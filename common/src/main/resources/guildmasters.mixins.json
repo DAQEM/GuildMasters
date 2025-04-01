@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.daqem.guildmasters.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+    "LocalPlayerMixin"
+  ],
+  "mixins": [
+    "ServerPlayerMixin",
+    "StructureTemplatePoolAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

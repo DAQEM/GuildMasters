@@ -1,0 +1,8 @@
+{
+  "itemGroup.guildmasters.guildmasters_tab": "Guild Masters",
+
+  "item.guildmasters.diary": "Diary",
+
+  "guildmasters.diary.owner": "Owner: %s",
+  "guildmasters.diary.unknown": "Unknown"
+}
